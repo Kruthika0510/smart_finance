@@ -1,4 +1,4 @@
-# smart_finance# Personal Finance Assistant
+# Personal Finance Assistant
 
 A simple ML-powered web app to help users track expenses, analyze spending behavior, and improve savings habits.
 
@@ -40,6 +40,4 @@ Date,Category,Amount
 ...
 ```
 
-## Screenshot
 
-![Process Flow](assets/flowchart.png)
