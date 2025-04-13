@@ -9,7 +9,7 @@ Also includes an ML-powered version in **Streamlit + Python**
 
 ## 🚀 Live Demo
 
-🎥 https://drive.google.com/file/d/15uo2rZQ6rUfXwUXIsHz9WNrwWmj8zjRf/view?usp=sharing
+🎥 https://drive.google.com/file/d/1G8wQFcOJCo-2780J-bA4m0o6WajZXkEQ/view?usp=sharing
 ---
 
 ## 🔍 Features
